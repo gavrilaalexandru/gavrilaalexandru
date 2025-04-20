@@ -5,6 +5,4 @@
 
 👾 I'm **Alex**.
 
-🦀 An open-source developer with a deep passion for cybersecurity and C/C++.
-
-🐁 I work on terminal tooling and libraries.
+🧠 An open-source developer with a deep passion for cybersecurity.
