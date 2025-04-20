@@ -5,6 +5,8 @@
 
 👾 I'm **Alex**.
 
-🧠 An open-source developer with a deep passion for cybersecurity.
+🧠 An open-source developer with a deep passion for cybersecurity and low-level stuff.
 
-![image](https://github.com/user-attachments/assets/4188badc-6786-4212-b163-673958e70fbe)
+🔍 Currently studying penetration testing and offensive security techniques.
+
+🎯 Actively participating in **CTFs** and **wargames** to sharpen my skills.
