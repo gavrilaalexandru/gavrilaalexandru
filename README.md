@@ -9,4 +9,4 @@
 
 🔍 Currently studying penetration testing and offensive security techniques.
 
-🎯 Actively participating in **CTFs** and **wargames** to sharpen my skills.
+🎯 Actively participating in CTFs and wargames to sharpen my skills.
